@@ -1,15 +1,28 @@
 
-footer {
-        border: 2px solid black;
-        outline: gray solid 10px;
-        margin: auto;    
-        padding: 20px;
+footer { color:white;
+         background-color: #34495E;
+         border: 2px solid black;
+         margin: auto;
+         padding: 20px;
         }
+
 p      {
+        color:white;
+        background-color: #34495E;
         border: 2px solid black;
-        outline: gray solid 10px;
-        margin: auto;    
+        margin: auto;
         padding: 20px;
         }
+
+h1      {
+        color:white;
+        background-color: #34495E;
+        border: 2px solid black;
+        margin: auto;
+        padding: 20px;
+        }
+a       {
+        color: gray;
+}
 
 
